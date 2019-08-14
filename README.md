@@ -1,6 +1,8 @@
 # Data-collector
 Hello, To the data collector and related, I know poor choice of naming
 
+OS : Mac OSX
+
 Work:
 The idea is to use a data collector to create log files of atime for files in a certain chosen directory(and sort them later).
 
