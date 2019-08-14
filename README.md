@@ -1,5 +1,5 @@
 # Data-collector
-Hello, To the data collector and related, I know poor choice of naming
+Hello, To the Data Sorter
 
 OS : Mac OSX
 
