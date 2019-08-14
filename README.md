@@ -10,4 +10,12 @@ The data collector uses the stat() system call to gather the data and then store
 Other iteration of the log file : 
 Now instead of writing the whole thing we just write down the changes using a hash table.
 
+What happens afterwards:
+Later this data is used by a sorter to sort and write the files in a text file in a certain order.
+
+What needs to be done:
+Sorter
+Data reader
+UI implementaion(To actually make it useful)
+
 Status : Development Stage
